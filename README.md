@@ -1,0 +1,2 @@
+# healthcare-management-sys-and-resource-optimization
+Healthcare management system and resource optimization. A healthcare management system and resource optimization platform primarily aims to streamline hospital operations, enhance patient care, and optimize resource use. It manages patient data, staff scheduling, inventory, billing, and appointments. Effective resource optimization ensures optima
